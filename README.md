@@ -20,7 +20,7 @@ Key steps performed:
 5.   Visualization Setup:
 •	Created interactive widgets using Ipy widgets to allow users to select an aircraft (icao24) and a date.
 •	Prepared for interactive visualizations, likely using folium for map-based plots and matplotlib for other types.
-![Simple Graph Plot](Images/simpleGraph.png)
+![Simple Graph Plot](Images/SimpleGraph.png)
 ![3D Plot](Images/3DGraph.png)
 ![Folium Plot](Images/FoliumGraph.png)
 
