@@ -70,7 +70,7 @@ Designed to serve as an analytical tool for:
 
 ![3D Plot](Images/3DGraph.png)
 
-![Folium Plot](Images/FoliumGraph.png)
+
 
 
 
